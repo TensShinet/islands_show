@@ -15,7 +15,7 @@
 
 如果你是 amd64 架构的机器可以直接使用仓库中的 binary
 
-然后修改仓库中的 islands.conf 设置 islandNet 的绝对路径
+然后修改仓库中的 islands.conf 设置 islandNet runc 的绝对路径
 
 **注意！由于没有添加「用户组」，你需要在命令前加上 sudo**
 
